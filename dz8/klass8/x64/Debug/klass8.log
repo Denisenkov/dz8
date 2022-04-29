@@ -1,0 +1,3 @@
+﻿  klass8.cpp
+C:\Users\VVVV\source\repos\klass8 (1)\klass8\jjj.h(69,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  klass8.vcxproj -> C:\Users\VVVV\source\repos\klass8 (1)\x64\Debug\klass8.exe
